@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the contribution guide first
+    url: https://github.com/dallanwagz/homelab-mini/blob/main/CONTRIBUTING.md
+    about: How to know if your contribution fits, and how to add a model.
